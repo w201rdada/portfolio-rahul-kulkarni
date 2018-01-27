@@ -1,36 +1,23 @@
 # My first cool idea {#slug-one}
-# Byte Transfer - Internet Analytics
+
+Global Internet Characteristic Feedback Loop for Cloud Applications
+ 
 #
 # #### Keywords {-}
 # internet, statistics, performance, usage
 #
 # ## A beginning.
 #
-# The internet has democratized a lot of industries has had a transformational economic impact across the globe. But the internet infrastructure itself is not democratized, all internet users are not equal. The cost, network bandwidth and performance of the internet vary substantially across the globe. This poses significant challenges for businesses that rely on the global internet infrastucture for their daily business. This study aims to provide an analysis of the cost, bandwidth and a performance index to account for outages acorss the globe. This will help globally connected businesses with better insights in understanding the impact and implicaions to their business outcomes
-#
+
+
+The Internet has democratized a lot of industries and has had a transformational economic impact across the globe. But the internet infrastructure itself is not democratized, all internet users are not equal. The cost, network bandwidth and performance of the internet vary substantially across the globe. This poses significant challenges for businesses that rely on the global internet infrastructure for their business. This research aims to apply data science techniques to analyze the cost, bandwidth and a performance index of internet connectivity across major global regions. This will help globally connected businesses with better insights in understanding the impact and implications to their business outcomes.
+
 #
 # ## A middle.
 #
-# businesses depend on the internet for their daily operations. A lot of small businesses rely on the public internet to do business transactions worldwide. business applications hosted in a cloud need to interact with their clients across the world. Currently they rely on best-effort guarantees of the internet. Critical applications. example a CAD rendering done in Asia connected with a remote server hosted in USA relies on a vast internet infrastructure. An outage or a slowdown can have an impact on the business deliverable. Mobile phone applications which require heavy network bandwidth may have varied end-used experience depending on which part of the world they are being used from. To help understand this a internet analytics and prediction engine which can render the internet usage and map of the worldwide internet infrastructure will help businesses in understanding potential bottlences and pitfalls of thier network dependent critical applications.
-#
-# Use data science techniques to collect, analyze and predict worldwide internet infrastructure usage
-#
-# Use case 1:
-#
-# How is my mobile gaming app experience in 20 major cities of the world?  
-#
-# What is the solution - think of an interface (API) which can take a set of paramters about your application requriements
-# and predict how it will perform across major cities of the world. 
-#
-# how does this API work - how can it predict potential performance of a mobile application in cities across the world?
-#
-#  
-#  Use case 2:
-#
-#  When can my Car design business transfer large set of databases (Petabytes) from USA to a multiple global teams across the world?
-#
-#  Provide an API to simulate this tranѕfer and preict best possible time of the day for this operation
-#
+Businesses depend on the internet for their daily operations. Applications hosted in a cloud need to interact with their users across the world. Currently the applications rely on best-effort guarantees of the internet. The users are based across the world and will have varied internet characterizes depending on their geographical location and hence varied end user experiences. Consider an application such as Uber or YouTube, these applications can potentially exhibit different experiences in SanFrancisco compared to a tier-2 or tier-3 city in other parts of the world, depending on the internet and mobile characteristics of the region and other factors such as the phone or computer hardware etc. which we will not consider for this study. 
+
+The proposal is to collect, analyze and predict the internet characteristic data of the client’s geographical environment and build a feedback loop to be used by applications hosted in the cloud so they can build better user experiences and business outcomes. The feedback loop can be thought of as an API to provide insights and predictions of internet characteristics of a geographical location.
 #
 #  <!-- ...or include images directly from the web. Cite your sources! -->
 #  ```{r machine-learning,echo=FALSE,fig.cap='[xkcd: Machine Learning](https://xkcd.com/1838/)',fig.align='center',out.width='50%'}
@@ -39,11 +26,12 @@
 #
 #
 #  ## An end.
+
+Understanding and adapting to Network Connectivity characteristics worldwide will differentiate and help cloud applications. This project aims to help businesses answer sample questions such as – why is my mobile gaming app experience different in 20 major cities of the world and how can I improve it, when can my automobile design business transfer large set of databases (Petabytes) from USA to a multiple global team across the world. This list can go on and is applicable across the spectrum specifically to businesses which do not possess deep technological knowledge and resources.
+
+References:
+
+https://www.cisco.com/c/m/en_us/solutions/service-provider/vni-forecast-highlights.html#
 #
-#  Provide this data to corelate business outcomes with internet usage and availability worldwide will help businesses which rely on the internet for their critical operations
-#   
-#    
-#    ~                                                                 
-#    https://www.cisco.com/c/m/en_us/solutions/service-provider/vni-forecast-highlights.html#
-#
-#
+
+
