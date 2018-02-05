@@ -4,6 +4,7 @@ Global Internet Characteristic Feedback Loop for Cloud Applications
  
 #### Keywords {-}
  internet analytics, internet traffic statistics, internet performance, predictive network modelling for cloud apps
+
 ## Background
 The Internet has democratized a lot of industries and has had a transformational economic impact across the globe. But the internet infrastructure itself is not democratized, all internet users are not equal. The cost, network bandwidth and performance of the internet vary substantially across the globe. This poses significant challenges for businesses that rely on the global internet infrastructure for their business. Consider an application such as Uber or YouTube, these applications can potentially exhibit different experiences in San Francisco compared to a tier-2 or tier-3 city in other parts of the world, depending on the internet and mobile characteristics of the region. 
 
