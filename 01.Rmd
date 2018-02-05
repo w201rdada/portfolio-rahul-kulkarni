@@ -39,7 +39,7 @@ A realtime IAPS service will provide reporting capabilities of network metrics f
 Understanding and adapting to Network Connectivity characteristics worldwide will differentiate and help cloud applications. This project aims to help businesses answer sample questions such as – why is my mobile gaming app experience different in 20 major cities of the world and how can I improve it, when can my automobile design business transfer large set of databases (Petabytes) from USA to a multiple global team across the world. This list can go on and is applicable across the spectrum specifically to businesses which do not possess deep technological knowledge and resources.
 
 References:
-https://www.cisco.com/c/m/en_us/solutions/service-provider/vni-forecast-highlights.html#
+[@cisco-internet-stats]
 
 
 
