@@ -1,37 +1,27 @@
-# My first cool idea {#slug-one}
+#  Internet Analytics and Prediction Service for Cloud Applications (IAPSForApps) {#slug-one}
 
 Global Internet Characteristic Feedback Loop for Cloud Applications
  
 #
 # #### Keywords {-}
-# internet, statistics, performance, usage
-#
-# ## A beginning.
-#
+# internet analytics, internet traffic statistics, internet performance, predictive network modelling for cloud apps
+# ## Background
+The Internet has democratized a lot of industries and has had a transformational economic impact across the globe. But the internet infrastructure itself is not democratized, all internet users are not equal. The cost, network bandwidth and performance of the internet vary substantially across the globe. This poses significant challenges for businesses that rely on the global internet infrastructure for their business. Consider an application such as Uber or YouTube, these applications can potentially exhibit different experiences in San Francisco compared to a tier-2 or tier-3 city in other parts of the world, depending on the internet and mobile characteristics of the region. 
 
+This research aims to apply data science techniques to analyze the cost, bandwidth and a performance index of internet connectivity across major global regions and develop a cloud service to provide analytical insights and prediction capabilities of the geo specific networks to the businesses. This will help globally connected businesses with better insights in understanding the impact and implications to their business outcomes.
 
-The Internet has democratized a lot of industries and has had a transformational economic impact across the globe. But the internet infrastructure itself is not democratized, all internet users are not equal. The cost, network bandwidth and performance of the internet vary substantially across the globe. This poses significant challenges for businesses that rely on the global internet infrastructure for their business. This research aims to apply data science techniques to analyze the cost, bandwidth and a performance index of internet connectivity across major global regions. This will help globally connected businesses with better insights in understanding the impact and implications to their business outcomes.
+# ## Proposal
 
-#
-# ## A middle.
-#
-Businesses depend on the internet for their daily operations. Applications hosted in a cloud need to interact with their users across the world. Currently the applications rely on best-effort guarantees of the internet. The users are based across the world and will have varied internet characterizes depending on their geographical location and hence varied end user experiences. Consider an application such as Uber or YouTube, these applications can potentially exhibit different experiences in SanFrancisco compared to a tier-2 or tier-3 city in other parts of the world, depending on the internet and mobile characteristics of the region and other factors such as the phone or computer hardware etc. which we will not consider for this study. 
+Businesses depend on the internet for their daily operations. Applications hosted in a cloud need to interact with their users across the world. Currently the applications rely on best-effort guarantees of the internet. The users are based across the world and will have varied internet characterizes depending on their geographical location and hence varied end user experiences.
 
 The proposal is to collect, analyze and predict the internet characteristic data of the client’s geographical environment and build a feedback loop to be used by applications hosted in the cloud so they can build better user experiences and business outcomes. The feedback loop can be thought of as an API to provide insights and predictions of internet characteristics of a geographical location.
-#
-#  <!-- ...or include images directly from the web. Cite your sources! -->
-#  ```{r machine-learning,echo=FALSE,fig.cap='[xkcd: Machine Learning](https://xkcd.com/1838/)',fig.align='center',out.width='50%'}
-#  knitr::include_graphics('https://imgs.xkcd.com/comics/machine_learning.png')
-#  ```
-#
-#
-#  ## An end.
 
+
+## Conclusion
 Understanding and adapting to Network Connectivity characteristics worldwide will differentiate and help cloud applications. This project aims to help businesses answer sample questions such as – why is my mobile gaming app experience different in 20 major cities of the world and how can I improve it, when can my automobile design business transfer large set of databases (Petabytes) from USA to a multiple global team across the world. This list can go on and is applicable across the spectrum specifically to businesses which do not possess deep technological knowledge and resources.
 
 References:
-
 https://www.cisco.com/c/m/en_us/solutions/service-provider/vni-forecast-highlights.html#
-#
+
 
 
