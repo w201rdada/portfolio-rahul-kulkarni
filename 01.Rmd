@@ -1,6 +1,5 @@
 #Internet Analytics and Prediction Service for Cloud Applications (IAPS) {#slug-one}
 
-Global Internet Characteristic Feedback Loop for Cloud Applications
  
 #### Keywords {-}
  internet analytics, internet traffic statistics, internet performance, predictive network modelling for cloud apps
@@ -16,17 +15,17 @@ Businesses depend on the internet for their daily operations. Applications hoste
 
 The proposal aims to collect, analyze and predict the internet characteristic data of the client’s geographical environment and aims to provide a service to be used by applications hosted in the cloud so they can build geo appropriate user experiences which eventually will lead to improved business outcomes. 
 
-IAPS can be categorized in four disting components
+IAPS consists of the following four components
 
 1. Internet Characteristic Data Collection Engine
 
-This component of IAPS is reponsible for collecting internet data from various sources (TBD) and categorizing into into seperate geo locations.
+This component of IAPS is responsible for collecting internet data from various sources (TBD) and categorizing into seperate geo locations.
 
 2. Analytics Engine
 
-The analytics engine aims to provide analysis of the metrics such as throughput, latency, bandwidth, outages per geo-locations.
+The analytics engine aims to provide analysis of network metrics such as throughput, latency, bandwidth, outages per geo-locations.
 
-3. Perdiction Engine
+3. Prediction Engine
 
 The predication engine aims to build a predicive model based on observed behaviour
 
